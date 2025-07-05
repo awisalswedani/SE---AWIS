@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "348238243330",
+    "project_id": "awis-94fe5",
+    "storage_bucket": "awis-94fe5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348238243330:android:01b91f1ce468408c8de91b",
+        "android_client_info": {
+          "package_name": "com.awisapp.awis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348238243330-j7e3lh2p2e8ns6o1ohs9retldn26paiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awisapp.awis",
+            "certificate_hash": "b66a72b7deccaec21d13272f24b55a38ccb255ce"
+          }
+        },
+        {
+          "client_id": "348238243330-0sisdreongpvtbm0utn9n5ujnmh8ia1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9zd2oH4q0tYfstU9keiFAL3ZYFAF57E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348238243330-0sisdreongpvtbm0utn9n5ujnmh8ia1u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348238243330-0aprnic4mn98ka4gj42i0rgg69g8i13m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awisdelivery.awis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348238243330:android:307e398d12b2f1f58de91b",
+        "android_client_info": {
+          "package_name": "com.awisdelivery.awis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348238243330-0sisdreongpvtbm0utn9n5ujnmh8ia1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9zd2oH4q0tYfstU9keiFAL3ZYFAF57E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348238243330-0sisdreongpvtbm0utn9n5ujnmh8ia1u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348238243330-0aprnic4mn98ka4gj42i0rgg69g8i13m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awisdelivery.awis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348238243330:android:64406062b3cde5bb8de91b",
+        "android_client_info": {
+          "package_name": "com.awisseller.awis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348238243330-amkp14kp44rpa53a08n6b7iuenppjrmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awisseller.awis",
+            "certificate_hash": "b66a72b7deccaec21d13272f24b55a38ccb255ce"
+          }
+        },
+        {
+          "client_id": "348238243330-0sisdreongpvtbm0utn9n5ujnmh8ia1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9zd2oH4q0tYfstU9keiFAL3ZYFAF57E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348238243330-0sisdreongpvtbm0utn9n5ujnmh8ia1u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348238243330-0aprnic4mn98ka4gj42i0rgg69g8i13m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awisdelivery.awis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
